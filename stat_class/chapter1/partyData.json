@@ -8,5 +8,6 @@
     [ "socialDemocraticParty", 10 ],
     [ "other", 21 ],
     [ "none", 812 ],
-    [ "noAnswer", 165 ]
+    [ "noAnswer", 165 ],
+    [ "total", 2060 ]
 ]
