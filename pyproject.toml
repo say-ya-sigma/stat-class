@@ -11,6 +11,7 @@ ipykernel = "^6.13.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+flake8-nb = "^0.4.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
